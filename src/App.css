@@ -6,7 +6,7 @@
 
 body {
   margin: 0;
-  background-color: yellowgreen;
+  background-color: beige;
 }
 
 .header {
@@ -22,4 +22,9 @@ ul {
 
 li {
   list-style: none;
+}
+
+.main-img {
+  margin: auto 0;
+  width: 20rem;
 }

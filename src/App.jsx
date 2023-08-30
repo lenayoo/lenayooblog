@@ -12,6 +12,7 @@ function App() {
           <li>Contact</li>
         </ul>
       </div>
+      <img src="logo.png" className="main-img" />
     </>
   )
 }
