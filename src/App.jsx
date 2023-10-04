@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <div className="header">
-        <div className="header-logo">L.BLOG.</div>
+        <div className="header-logo"><h1>L.BLOG.</h1></div>
         <ul className="header-nav">
           <li>Home</li>
           <li>Programming blog</li>
@@ -12,7 +12,9 @@ function App() {
           <li>Contact</li>
         </ul>
       </div>
-      <img src="logo.png" className="main-img" />
+      <div className="main-img">
+        <img src="https://picsum.photos/400/600" alt='lorem-picsum' />
+      </div>
     </>
   )
 }
