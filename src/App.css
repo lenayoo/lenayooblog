@@ -38,10 +38,11 @@ li {
   margin-left: 30px;
   font-size: 20px;
   cursor: pointer;
+  transition: transform 0.3s ease;
 }
 
 li:hover {
-  translate: ease;
+  transform: sacle(1.1);
 }
 
 .main-img {
