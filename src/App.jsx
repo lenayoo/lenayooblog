@@ -15,6 +15,7 @@ function App() {
       <div className="main-img">
         <img src="https://picsum.photos/400/600" alt='lorem-picsum' />
       </div>
+      <div><h2>You're not fucking lost. You've got you!</h2></div>
     </>
   )
 }
