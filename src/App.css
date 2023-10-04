@@ -1,3 +1,11 @@
+:root {
+  --light-green: #F0F7D4;
+  --bright-green: #B2D732;
+  --bright-purple: #4424D6;
+  --bright-orange: #FC600A;
+  --dark-navy: #110934;
+}
+
 #root {
   text-align: center;
   margin: 0;
@@ -5,17 +13,18 @@
 
 body {
   margin: 0;
-  background-color: beige;
+  background-color: var(--bright-purple);
 }
 
 .header {
-  background-color: #2E4374;
-  color: white;
+  background-color: var(--bright-purple);
+  color: var(--bright-green);
   width: 100%;
   display: flex;
   justify-content: space-between;
   align-items: center;
   cursor: pointer;
+  padding: 0 15px;
 }
 
 ul {
@@ -29,6 +38,10 @@ li {
   margin-left: 30px;
   font-size: 20px;
   cursor: pointer;
+}
+
+li:hover {
+  translate: ease;
 }
 
 .main-img {
