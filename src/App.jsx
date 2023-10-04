@@ -13,9 +13,9 @@ function App() {
         </ul>
       </div>
       <div className="main-img">
-        <img src="/public/2.jpeg" alt='mountain and moon' />
+        <img src="/public/3.jpg" alt='adventure is out there' />
       </div>
-      <div className='bottom-text'><h2>Fully and wildly, You have arrived!</h2></div>
+      
     </>
   )
 }
