@@ -49,4 +49,9 @@ li:hover {
   display: flex;
   justify-content: center;
   margin-top: 5rem;
+  border-radius: 15px;
+}
+
+.bottom-text {
+  color: var(--light-green);
 }

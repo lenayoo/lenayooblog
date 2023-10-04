@@ -13,9 +13,9 @@ function App() {
         </ul>
       </div>
       <div className="main-img">
-        <img src="https://picsum.photos/400/600" alt='lorem-picsum' />
+        <img src="/public/2.jpeg" alt='mountain and moon' />
       </div>
-      <div><h2>You're not fucking lost. You've got you!</h2></div>
+      <div className='bottom-text'><h2>Fully and wildly, You have arrived!</h2></div>
     </>
   )
 }
