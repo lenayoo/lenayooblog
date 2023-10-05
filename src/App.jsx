@@ -4,7 +4,9 @@ function App() {
   return (
     <>
       <div className="header">
-        <div className="header-logo"><h1>L.BLOG.</h1></div>
+        <div className="header-logo">
+          <h1>L.BLOG.</h1>
+        </div>
         <ul className="header-nav">
           <li>Home</li>
           <li>Programming blog</li>
@@ -13,9 +15,8 @@ function App() {
         </ul>
       </div>
       <div className="main-img">
-        <img src="/public/3.jpg" alt='adventure is out there' />
+        <img src="/public/3.jpg" alt="adventure is out there" />
       </div>
-      
     </>
   )
 }
