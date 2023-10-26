@@ -11,7 +11,7 @@ function App() {
           <li>Home</li>
           <li>Programming blog</li>
           <li>Today I learnt</li>
-          <li>Contact</li>
+          <li>Contact Lena</li>
         </ul>
       </div>
       <div className="main-img">
