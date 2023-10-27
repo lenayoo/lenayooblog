@@ -57,3 +57,16 @@ li:hover {
 .bottom-text {
   color: var(--light-green);
 }
+
+.main-logo {
+  width: 30rem;
+  height: 30rem;
+  border-radius: 50%;
+  background-color: var(--bright-green);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  font-weight: bold;
+  color: #4424D6;
+}

@@ -1,4 +1,4 @@
-import './App.css'
+import "./App.css";
 
 function App() {
   return (
@@ -15,10 +15,10 @@ function App() {
         </ul>
       </div>
       <div className="main-img">
-        <img src="/public/3.jpg" alt="adventure is out there" />
+        <div className="main-logo">WELCOME</div>
       </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
