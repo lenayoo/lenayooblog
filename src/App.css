@@ -9,6 +9,7 @@
 #root {
   text-align: center;
   margin: 0;
+  font-family: 'Playpen Sans', cursive;
 }
 
 body {
@@ -52,6 +53,8 @@ li:hover {
   margin-top: 5rem;
   border-radius: 15px;
   cursor: pointer;
+  font-family: 'Playpen Sans', cursive;
+  font-weight: 800;
 }
 
 .bottom-text {
