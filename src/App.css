@@ -19,7 +19,7 @@ body {
 
 .header {
   background-color: var(--bright-purple);
-  color: var(--bright-green);
+  color: var(--bright-orange);
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -53,7 +53,6 @@ li:hover {
   margin-top: 5rem;
   border-radius: 15px;
   cursor: pointer;
-  font-family: 'Playpen Sans', cursive;
   font-weight: 800;
 }
 
@@ -71,5 +70,5 @@ li:hover {
   align-items: center;
   font-size: 3rem;
   font-weight: bold;
-  color: #4424D6;
+  color: var(--bright-purple);
 }
